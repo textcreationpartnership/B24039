@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Haughty Frenchmens pride abased, or, A True relation of a bloody skirmish which lately happened betwixt a company of Spaniards, and a company of Frenchmen the one party belonging to the Spanish ambassadour, the other to the French ambassadour, both now resident in London : the ground of this quarrel was their striving for superiority who should follow next after our Kings coach, the Frenchmen would have had the vpper-hand, but the Spaniard would not permitt them, and hereupon the contention grew so strong that they fell to fighting with their naked swords in good earnest, and in this bloody skirmish some of the Frenchmen and horses were kil'd, several others wounded, and they in the end were forced to retreat, and yield the victory to the Spaniards : thus was done on Tower-Hill the 30th of September 1661 : tune is, My love is gone to Jamaico.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24039</idno><idno type="EEBO-CITATION">18312605</idno>
+  <idno type="VID">206499</idno>
+  <idno type="EEBO-PROQUEST">2240904208</idno>
+  
+            <idno type="STC">Wing H1151A</idno>
+            <idno type="OCLC">18312605</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1635:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Haughty Frenchmens pride abased, or, A True relation of a bloody skirmish which lately happened betwixt a company of Spaniards, and a company of Frenchmen the one party belonging to the Spanish ambassadour, the other to the French ambassadour, both now resident in London : the ground of this quarrel was their striving for superiority who should follow next after our Kings coach, the Frenchmen would have had the vpper-hand, but the Spaniard would not permitt them, and hereupon the contention grew so strong that they fell to fighting with their naked swords in good earnest, and in this bloody skirmish some of the Frenchmen and horses were kil'd, several others wounded, and they in the end were forced to retreat, and yield the victory to the Spaniards : thus was done on Tower-Hill the 30th of September 1661 : tune is, My love is gone to Jamaico.</title>
+               </titleStmt>
+               <extent>1 broadside : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Burton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated with 4 woodcuts.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:206499:1"/>
+            <head>The Haughty <hi>Frenchmens</hi> Pride Abased. <hi>OR,</hi>
+            </head>
+            <argument>
+               <p> A true Relation of a bloody Skirmish which lately happened betwixt a company of <hi>Spaniards,</hi> and a company of <hi>Frenchmen;</hi> the one Party be<g ref="char:EOLhyphen"/>longing to the <hi>Spanish</hi> Ambassadour, the other to the <hi>French</hi> Ambassadour, both now resident in <hi>London:</hi> The ground of this Quarrel was their striving for Superiority who should follow next after our Kings Coach: the <hi>Frenchmen</hi> would have had the Vpper-hand, but the <hi>Spaniard</hi> would not permitt them, and hereupon the contention grew so strong that they fell to fighting with their na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Swords in good earnest; a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in this bloody Skirmish some of the <hi>Frenchmen</hi> and Horses were kil'd, several others wounded and they in the end were forced to re<g ref="char:EOLhyphen"/>treat, and yield the Victory to the <hi>Spaniards</hi>
+               </p>
+            </argument>
+            <opener>
+               <dateline>This was done on <hi>Tower-Hill</hi>
+                  <date> the 30th. of <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ptem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er.</hi> 1661.</date>
+               </dateline> Tune is, <hi>My Love is gone to Jamaico.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of man with walking stick</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of gentleman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>ALl you that love true News to hear,</l>
+               <l>attend unto my Ditty,</l>
+               <l>That which I purpose to declare,</l>
+               <l>was done in <hi>London</hi> Citty,</l>
+               <l>A Quarrel lately wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un,</l>
+               <l>which was not quickly ended,</l>
+               <l>The <hi>Spaniards</hi> have much honour won,</l>
+               <l>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lour them befriended:</l>
+               <l>
+                  <hi>The <hi>Frenchmen</hi> with the <hi>Spaniards</hi> fought,</hi>
+               </l>
+               <l>
+                  <hi>but yet they lost the day sir:</hi>
+               </l>
+               <l>
+                  <hi>The <hi>Spaniards</hi> put them to the Rout,</hi>
+               </l>
+               <l>
+                  <hi>and made them run away sir.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Frenchmen</hi> they were lofty grown</l>
+               <l>with Pride and State they vaunted,</l>
+               <l>But now alas they must stoop down,</l>
+               <l>for <hi>Spaniards</hi> are undaunted:</l>
+               <l>The <hi>French</hi> have now small cause to boast</l>
+               <l>their Courages are cooled,</l>
+               <l>For they have found unto their cost</l>
+               <l>that <hi>Spaniards</hi> won't be fooled.</l>
+               <l>
+                  <hi>The <hi>Fren<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>men</hi> with the &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This bloody Bont performed was</l>
+               <l>the thirtieth of <hi>September.</hi>
+               </l>
+               <l>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich Fatal day the <hi>Frenchmen</hi> may</l>
+               <l>with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reif of heart remember,</l>
+               <l>That day it was their lu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>klesse chance</l>
+               <l>with <hi>Spaniards</hi> for to quarrel,</l>
+               <l>Who quickly Quell'd the pride of <hi>France,</hi>
+               </l>
+               <l>and spoyl'd their gay apparrel.</l>
+               <l>
+                  <hi>The <hi>Frenchmen,</hi> &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Frenchmen</hi> are the <hi>Spaniards</hi> Foes,</l>
+               <l>they have each other wronged,</l>
+               <l>And hereupon the Strife arose</l>
+               <l>by Servant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that belonged</l>
+               <l>Vnto their two <hi>Ambassadours</hi>
+               </l>
+               <l>which latel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came to <hi>London,</hi>
+               </l>
+               <l>Who fell at Od<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> land in these Iarrs</l>
+               <l>some <hi>Frenchmen</hi> are quite undone:</l>
+               <l>
+                  <hi>For though they with the <hi>Spaniards</hi> fought,</hi>
+               </l>
+               <l>
+                  <hi>yet they did loose the day <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r.</hi>
+               </l>
+               <l>
+                  <hi>The <hi>Spaniards</hi> put them to the rout,</hi>
+               </l>
+               <l>
+                  <hi>and made them run away si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <div type="part">
+               <pb facs="tcp:206499:1"/>
+               <head>
+                  <figure>
+                     <figDesc>woodcut of gentleman</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>woodcut of gentleman</figDesc>
+                  </figure>
+               </head>
+               <lg>
+                  <l>THe <hi>French</hi> would have the upper hand,</l>
+                  <l>which <hi>Spaniards</hi> did deny them,</l>
+                  <l>And quickly did their Pride withstand,</l>
+                  <l>they scorn'd one Inch to sly them,</l>
+                  <l>But next the Kings Coach took their place</l>
+                  <l>even as it did become them:</l>
+                  <l>The <hi>Frenchmen</hi> thought it a disgrace,</l>
+                  <l>and néede would fall upon them:</l>
+                  <l>
+                     <hi>And thus they with the <hi>Spaniards</hi> fought,</hi>
+                  </l>
+                  <l>
+                     <hi>yet they did loose the day sir;</hi>
+                  </l>
+                  <l>
+                     <hi>The <hi>Spaniards</hi> put them to the Rout,</hi>
+                  </l>
+                  <l>
+                     <hi>and made them run away sir.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Frenchmen</hi> were most sharply set,</l>
+                  <l>and stoutly they did vapour,</l>
+                  <l>But being by the <hi>Spaniards</hi> met,</l>
+                  <l>then each Man drew his Rapier,</l>
+                  <l>They sought each others blood to spill,</l>
+                  <l>with rags and furious madnesse.</l>
+                  <l>Vntill the <hi>Frenchmen</hi> had their fill.</l>
+                  <l>and turn'd their backs with sadnesse.</l>
+                  <l>
+                     <hi>For though they with, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Spaniards</hi> valour did appear.</l>
+                  <l>which did their Foes affright sir,</l>
+                  <l>
+                     <hi>A</hi> many <hi>Frenchmen</hi> wounded were,</l>
+                  <l>and some were kil'd outright sir,</l>
+                  <l>Their lofty minds are now brought low,</l>
+                  <l>and 'twill be no great wonder</l>
+                  <l>If they be made themselves to know,</l>
+                  <l>and by their Foes kept under.</l>
+                  <l>
+                     <hi>The <hi>Frenchmen</hi> with the, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Both Men and Horses dead were found,</l>
+                  <l>being stab'd in several places;</l>
+                  <l>And some lay sprawling on the ground,</l>
+                  <l>with sad and bloody faces:</l>
+                  <l>Great multituds of People than</l>
+                  <l>on every side did throng them,</l>
+                  <l>And by that means an <hi>Englishman</hi>
+                  </l>
+                  <l>did loose his life among them.</l>
+                  <l>
+                     <hi>Though <hi>Frenchmen</hi> with, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus were the <hi>Frenchmen</hi> put to flight,</l>
+                  <l>the <hi>Spaniards</hi> have them tamed;</l>
+                  <l>I think that they no more will fight,</l>
+                  <l>for sure they are ashamed,</l>
+                  <l>They may go home and tell their Friends</l>
+                  <l>how <hi>Spaniards</hi> here did rout them,</l>
+                  <l>And afterwards to make amends</l>
+                  <l>the <hi>Englishmen</hi> did flout them.</l>
+                  <l>
+                     <hi>Though <hi>Frenchmen</hi> did with, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If <hi>Frenchmen</hi> be such Paules then,</l>
+                  <l>Alas! what will betide them,</l>
+                  <l>For <hi>Englishmen</hi> scarce one in ten</l>
+                  <l>I think that can abide them;</l>
+                  <l>If they and we should not agrée,</l>
+                  <l>they quickly might be undone;</l>
+                  <l>Wée'd not give o'r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, but beat them mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>then <hi>Spaniards</hi> did in <hi>London.</hi>
+                  </l>
+                  <l>
+                     <hi>For though they with the <hi>Spanirrds</hi> fought,</hi>
+                  </l>
+                  <l>
+                     <hi>yet they have lost the day sir,</hi>
+                  </l>
+                  <l>
+                     <hi>The <hi>Spaniards</hi> put them to the rout,</hi>
+                  </l>
+                  <l>
+                     <hi>and made them run away sir.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Rich. Burton</hi> at the Horshooe in <hi>Smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
